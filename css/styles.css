@@ -26,7 +26,7 @@ table {
 th, td {
   border-right: 2px solid #53354a;
   padding-right: 10px;
-  font-size: 1em;
+  font-size: 10px;
 }
 
 th {
@@ -42,9 +42,6 @@ a:visited{
   color: #903749;
 }
 
-p {
-  font-size: 1em;
-}
 
 .hobbies {
   margin-top: 0;
