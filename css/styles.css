@@ -1,0 +1,59 @@
+body {
+  background-color: #2b2e4a;
+  font-family: Tw Cen MT;
+  color: white;
+}
+
+h1 {
+  color: #e84545;
+}
+
+h3 {
+  color: #e84545;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+table {
+  border: 2px solid #53354a;
+  border-collapse: collapse;
+}
+
+.title, .title td, .title th{
+  border: none;
+}
+
+th, td {
+  border-right: 2px solid #53354a;
+  padding-right: 10px;
+  font-size: 16px;
+}
+
+th {
+  border: 2px solid #53354a;
+  color: #e84545
+}
+
+a {
+  color: #e84545;
+}
+
+a:visited{
+  color: #903749;
+}
+
+p {
+  font-size: 16px;
+}
+
+.hobbies {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 10%;
+}
